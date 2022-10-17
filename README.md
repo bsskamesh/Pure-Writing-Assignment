@@ -1,7 +1,9 @@
 ### Contents
 - [Benefits of Public Cloud](#benefits-of-public-cloud)
 - [Some Solutions to Beat Traffic Congestion](#some-solutions-to-beat-traffic-congestion)
+
 ## Benefits of Public Cloud
+
 The ability to deploy databases or retain superior backups does not make a business better than its competitors. What differentiates a business is how well it responds to the needs of the customers. IT tasks that are common, repetitive, and time-consuming can be shifted to Cloud, allowing companies to focus and innovate on customer requirements.
 
 Public Cloud is the on-demand delivery of IT resources over the public internet with pay-as-you-go pricing. 
