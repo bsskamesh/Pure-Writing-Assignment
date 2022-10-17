@@ -8,7 +8,7 @@ The ability to deploy databases or retain superior backups does not make a busin
 
 Public Cloud is the on-demand delivery of IT resources over the public internet with pay-as-you-go pricing. 
 
-For example, a business needs needs 100 virtual desktops and 1000 terabytes of storage for the tax season. The company can deploy resources instantly in Cloud and return them afterwards. Cloud offers flexibility and pricing according to the usage of resources, which is impossible when a company manages its own infrastructure.
+For example, a business needs 100 virtual desktops and 1000 terabytes of storage for the tax season. The company can deploy resources instantly in Cloud and return them afterwards. Cloud offers flexibility and pricing according to the usage of resources, which is impossible when a company manages its own infrastructure.
 
 In addition, Public Cloud offers the following benefits:
 - **Avoid upfront expenses**: When you are a new business, you cannot know how you are going to use computing resources. Instead of investing highly in data centers upfront, pay only for resources you consume.
