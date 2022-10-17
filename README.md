@@ -1,6 +1,6 @@
-### Contents
+### Contents:
 - [Benefits of Public Cloud](#benefits-of-public-cloud)
-- [Some Solutions to Beat Traffic Congestion](#some-solutions-to-beat-traffic-congestion)
+- [Beating Traffic Congestion in Bangalore](#beating-traffic-congestion-in-bangalore)
 
 ## Benefits of Public Cloud
 
@@ -19,7 +19,7 @@ In addition, Public Cloud offers the following benefits:
 
 **Reference**: AWS Cloud Practitioner Essentials
 
-## Some Solutions to Beat Traffic Congestion
+## Beating Traffic Congestion in Bangalore
 When industrial production and traffic were shut down in India for 6 weeks recently, river dolphins returned to Ganga, the Dhauladhar mountain range of Himachal was visible after 30 years from Jalandhar in Punjab, and the air quality index (AQI) of Bangalore hovered around 20.
 
 While we cannot ban traffic completely or stop industries permanently, here are some solutions I propose to beat traffic congestion in Bangalore:
@@ -30,5 +30,3 @@ While we cannot ban traffic completely or stop industries permanently, here are 
 - **Optimize traffic management**: Use technology to effectively maximize road capacity. Co-ordinate traffic lights in response to demand, improve road conditions by using CCTVs and proactively repair roads, implement existing road traffic laws strictly, reduce illegal parking, and ban loading and unloading by delivery vehicles on main roads during peak hours.
 
 **Reference**: [Smarter Cambridge Transport](https://www.smartertransport.uk/) 
-
-
