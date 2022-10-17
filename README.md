@@ -15,7 +15,7 @@ In addition, Public Cloud offers the following benefits:
 - **Implement innovative solutions**: Deploying resources on Cloud is easy and quick. This flexibility provides you with more time to experiment and implement innovative solutions, while saving on costs.
 - **Go global in minutes**: Cloud enables you to deliver content to customers around the world quickly, while providing them with low latency.
 
-**Source**: AWS Cloud Practitioner Essentials
+**Reference**: AWS Cloud Practitioner Essentials
 
 ## Some Solutions to Beat Traffic Congestion
 When industrial production and traffic were shut down for 6 weeks starting from March 2019, river dolphins returned to Ganga, the Dhauladhar mountain range of Himachal was visible after 30 years from Jalandhar in Punjab, and the air quality index (AQI) of Bangalore hovered around 20.
@@ -26,6 +26,6 @@ While we cannot ban traffic completely or stop industries permanently is suicida
 - **Using existing rail network**: Running local trains regularly in congested corridors (City station to Whitefield, Yashwantpur to Hosur, and City Station to Devanahalli) can reduce congestion. Update the infrastructure of all the local stations, and provide buses from these train stations to commercial and residental areas.
 - **Optimize traffic management**: Use technology to effectively maximize road capacity. Co-ordinate traffic lights in response to demand, improve road conditions by using CCTVs and practively repair roads, implement existing road traffic laws strictly, reduce illegal parking, and ban loading and unloading by delivery vehicles during peak hours.
 
-**Source**: [Smarter Cambridge Transport](https://www.smartertransport.uk/) 
+**Reference**: [Smarter Cambridge Transport](https://www.smartertransport.uk/) 
 
 
